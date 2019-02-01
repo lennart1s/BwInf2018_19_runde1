@@ -7,4 +7,4 @@ Diese Lösungen sind in Zusammenarbeit mit
 <br/><b> Niklas Degener</b> (Aufgabe 3 & 5)
 <br/> und
 <br/> <b>Fabian Müller</b> (Aufgabe 4)
-<br/>entstaden
+<br/>entstanden.
